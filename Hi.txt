@@ -1,3 +1,4 @@
 Welcome to DevOps -- GitHub Class
 Hi this is my second changes!!!!!
 Conflicts ...............#########
+Another Conflicts ...............#########
