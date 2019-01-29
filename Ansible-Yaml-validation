@@ -1,0 +1,3 @@
+http://www.yamllint.com/
+via python also to import yaml module and test it
+Example:- python -c 'import yaml, sys; print yaml.load(sys.stdin)' < /var/tmp/test.yaml 
